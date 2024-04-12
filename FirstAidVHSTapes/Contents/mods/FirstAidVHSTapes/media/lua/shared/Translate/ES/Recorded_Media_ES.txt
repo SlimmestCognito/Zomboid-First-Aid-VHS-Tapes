@@ -1,28 +1,28 @@
 
-RM_0c157be1-f321-44e2-8917-ab224e3f4ad6 = "Primera Línea Médica, KY"
+RM_0c157be1-f321-44e2-8917-ab224e3f4ad6 = "Primera Línea Médica KY"
 
 
-RM_91e040db-5de6-4960-8375-147ee6b47347 = "VHS: Primera Línea Médica, KY E1"
+RM_91e040db-5de6-4960-8375-147ee6b47347 = "VHS: Primera Línea Médica KY E1"
 RM_c06028fe-b78a-4b24-889e-0adb806c8be8 = "Capítulo 1: Laceraciones"
 RM_39b66d48-daa0-4a53-ac0f-90271a0039e9 = "Sigue al Doctor Monroe y su equipo y aprende cómo tratar una laceración de piel en esta edición de Primera Línea Médica KY."
 
 
-RM_6f98888f-2e1c-4895-b465-8e97d94adee5 = "VHS: Primera Línea Médica, KY E2"
+RM_6f98888f-2e1c-4895-b465-8e97d94adee5 = "VHS: Primera Línea Médica KY E2"
 RM_8ff6c6be-ebb8-42b4-9ccb-515de57d0f73 = "Capítulo 2: Heridas Profundas"
 RM_73d0ab21-768f-476b-8054-e8dfbc23190e = "Sigue al Doctor Monroe y su equipo y aprende cómo tratar una herida profunda en esta edición de Primera Línea Médica KY."
 
 
-RM_ff3bdfaf-d654-4ade-a2ac-3141f4c18338 = "VHS: Primera Línea Médica, KY E3"
+RM_ff3bdfaf-d654-4ade-a2ac-3141f4c18338 = "VHS: Primera Línea Médica KY E3"
 RM_2545a7a6-eb49-4276-a220-d5c4070905ff = "Capítulo 3: Fracturas"
 RM_b49a7726-8c3d-4689-98c2-0eadff2087e6 = "Acompaña al equipo de paramédicos y aprende cómo tratar extremidades fracturadas en esta edición de Primera Línea Médica KY."
 
 
-RM_dc12d090-a5b5-438d-9173-476e6945decd = "VHS: Primera Línea Médica, KY E4"
+RM_dc12d090-a5b5-438d-9173-476e6945decd = "VHS: Primera Línea Médica KY E4"
 RM_fa0cceec-f410-4468-8e25-76149b3edd02 = "Capítulo 4: Quemaduras"
 RM_c6e46e67-1f17-4f73-a59a-6a0002d2829b = "Sigue al Doctor Monroe y su equipo y aprende cómo tratar quemaduras en esta edición de Primera Línea Médica KY."
 
 
-RM_1536de5b-09ea-4fec-9c34-fc34d42e7351 = "Estás viendo, ¡Primera Línea Médica, KY!"
+RM_1536de5b-09ea-4fec-9c34-fc34d42e7351 = "Estás viendo, ¡Primera Línea Médica KY!"
 
 
 RM_c5c971d0-823c-4e09-a875-631c547731a2 = "Son las dos y media de la tarde..."
@@ -35,7 +35,7 @@ RM_292959d8-fcde-4158-a78b-7d8b3c236759 = "Timmy"
 RM_db15e1df-e477-4b7c-b6df-32c26a11bb81 = "Parece que tienes un corte feo en la pierna, Timmy."
 RM_e07e72b9-1e52-4824-a134-fa981ecd1712 = "¡Arreglemos eso!"
 RM_fd13ee28-0cba-454b-9a3e-01ac59e077b7 = "No te preocupes, parece una simple laceración, eso es todo."
-RM_0a955928-1fc0-4225-a561-44df8628d02f = "Lipiemos el área con un poco de desinfectante."
+RM_0a955928-1fc0-4225-a561-44df8628d02f = "Limpiemos el área con un poco de desinfectante."
 RM_7e8776f9-de1d-4ba0-a14a-9dfc639b81a2 = "Esto puede arder un poco..."
 RM_7030bc29-e25a-40f9-9241-d5be57ecfb3d = "Ay..."
 RM_4c0fd70e-e6b4-46a3-a5dd-141cc1568015 = "Lo siento, Timmy..."
@@ -47,7 +47,7 @@ RM_02bae59d-870c-4ad3-bb43-dd8b870446e6 = "Ahora, el vendaje debe cambiarse si s
 RM_4f55cadf-0c4a-4759-b124-159ad057ef88 = "¡Tu mamá puede hacerlo por ti!"
 RM_2d4908a3-53e7-49a7-80f3-8c21efa14bf5 = "Simplemente quita el vendaje sucio y vuelve a aplicar uno limpio."
 RM_83890572-ec4a-40e3-ab42-02d60c05b542 = "Tómatelo con calma por uno o dos días..."
-RM_0108c5d1-11e6-43c2-90c1-0feeba2ed37d = "¡Y volveras a jugar en poco tiempo!"
+RM_0108c5d1-11e6-43c2-90c1-0feeba2ed37d = "¡Y volverás a jugar en poco tiempo!"
 RM_275ebc0e-2908-4b1b-9cbe-627c090d5e51 = "Dile gracias al doctor, Timothy."
 RM_5286b54c-4c01-402e-9679-75501c37b0ff = "¡Gracias, doctor!"
 RM_e0df9d6b-f9ad-4290-a21f-37d620b11b86 = "Jaja, ahora cuídate mucho..."
@@ -95,7 +95,7 @@ RM_495298db-17f8-448b-aae9-6fef5a5bfee2 = "<gemidos fuertes>"
 RM_1b04adcb-10e8-4d10-af2b-10c4909eba3e = "Parecen fracturas en ambos brazos."
 RM_6447fc5a-0502-4c0e-85f7-57096669d4e4 = "Efectivamente, ¡Y también una posible fractura de pierna!"
 RM_809a875f-1a5f-4eec-a07c-1c30634d831d = "No podemos arriesgarnos a moverlo hasta que lo entablillemos"
-RM_80b37630-2fcd-46bc-a89a-60560f05690b = "Pero sólo tenémos dos férulas en la camioneta..."
+RM_80b37630-2fcd-46bc-a89a-60560f05690b = "Pero sólo tenemos dos férulas en la camioneta..."
 RM_e5279f70-cda1-4dca-8baf-704d93381786 = "Siempre podemos improvisar una"
 RM_138352a4-027b-4887-8aee-34fca2ca0047 = "¿Eso es recomendable?"
 RM_a651276f-271d-455d-889c-be334c65bb8a = "No, pero es mejor que nada."
@@ -108,8 +108,8 @@ RM_ae25d422-5d76-48eb-8999-dc4ec3ea1f49 = "Perfecto, átalo y aplícalo al pacient
 RM_a07adebe-bdec-4edf-9df7-1ff797ba07f0 = "Toma una venda también, te ayudará a mantener las cosas limpias."
 RM_c149d3b3-4442-47de-8c49-4bb36a7d8ba3 = "Esto debería aguantar..."
 RM_5030824d-4b60-462c-aae5-d62ed749e5ff = "Podemos moverlo a la camilla."
-RM_7855929f-e86f-4f5e-b53e-1d13002db147 = "¿Y dónde aprendiste todo esto?"
-RM_8d1f38ac-4f0c-410c-a247-04e01c624a3a = "Aprendí sobre esto en los boys scouts..."
+RM_7855929f-e86f-4f5e-b53e-1d13002db147 = "¿Y dónde aprendiste todo eso?"
+RM_8d1f38ac-4f0c-410c-a247-04e01c624a3a = "Aprendí sobre esto en los exploradores..."
 RM_d4a34c89-05a0-4a5c-83c5-50bc45c599b5 = "¡Es realmente muy útil si estás de excursión y te metes en problemas!"
 RM_d8b4a37f-a3ed-4a0f-869d-940673926373 = "<gemidos>"
 RM_f70e1dc0-cfda-4a0a-9657-e85670d112fb = "Llevemos a este tipo al hospital..."
@@ -140,7 +140,7 @@ RM_93c7331c-f418-4c6f-8b81-0d60af796d1b = "Primero la esterilizamos..."
 RM_34c42968-effe-44d7-8c14-225e00f6294b = "Cubrimos las zonas quemadas..."
 RM_245cd3ec-befe-4c66-ae25-ef0d76a2ed75 = "Todo listo."
 RM_68ac8977-55fc-4cb1-99f5-11c108bbd0d3 = "¿Podré volver a trabajar?"
-RM_a3780b47-728f-42e8-9e02-599209132ae4 = "Le recomendamos ausentarse del trabajo por un par de semanas..."
+RM_a3780b47-728f-42e8-9e02-599209132ae4 = "Le recomiendo ausentarse del trabajo por un par de semanas..."
 RM_24775385-1fee-4feb-b398-a386ddc19367 = "Esto tardará mucho en sanar."
 RM_a7ceefe7-0b1d-4603-942a-8c504fbeae5f = "También deberás curar las heridas con regularidad."
 RM_75a5bf2d-f756-477d-b3b4-c1d8ef67ee44 = "Gracias, doc."
