@@ -1,5 +1,5 @@
-name=First Aid VHS Tapes B41
-authors=RDavisGames
+name=First Aid VHS Tapes
+author=RDavisGames
 poster=poster.png
 icon=icon.png
 id=FirstAidVHSTapes
@@ -10,3 +10,4 @@ description=<LINE>
 description=Lore friendly approach - similar to other skill VHS shows
 
 modversion=1.0.9
+versionMin=42.0.0
