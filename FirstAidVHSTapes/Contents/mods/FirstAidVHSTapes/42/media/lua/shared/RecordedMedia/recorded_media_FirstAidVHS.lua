@@ -1,6 +1,6 @@
 -- Generated Recorded Media Data File
 
--- Text is stored in ...FirstAidVHSTapes/Media/lua/shared/Translate/EN/Recorded_Media_EN.txt
+-- Text is stored in ...FirstAidVHSTapes/Media/lua/shared/Translate/EN/Recorded_Media.json
 
 RecMedia = RecMedia or {}
 
